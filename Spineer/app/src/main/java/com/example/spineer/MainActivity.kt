@@ -32,6 +32,7 @@ class MainActivity : AppCompatActivity(), AdapterView.OnItemSelectedListener {
 
         spinner.adapter=arrayAdapter
         spinner.onItemSelectedListener=this
+        //this is good
     }
 
     override fun onItemSelected(
