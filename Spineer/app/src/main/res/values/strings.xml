@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spineer</string>
+    <string-array name="colors">
+        <item>RED</item>
+        <item>GREEN</item>
+        <item>BLUE</item>
+    </string-array>
+</resources>
